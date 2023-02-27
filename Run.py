@@ -16,4 +16,7 @@ elif operator == '-':
 elif operator == '/':
     print(a, operator, b, '=', a/b)
 
+print('hasil nya adalah: ', a, operator, b)
+
+
 print('semoga harimu menyenangkan')
